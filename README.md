@@ -17,7 +17,6 @@ python myDropbox.py
 
 deploy on AWS lambda using claudia
 you have to create DynamoDB with 1 partition key 'username' and global secondary index 'userAccessToken'
-and allow
 
 ```
 npm i
